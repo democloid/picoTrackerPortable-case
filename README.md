@@ -1,4 +1,3 @@
-# Case for PicoTrackerPortable
-Models to 3D print the portable version of [picoTracker](https://github.com/democloid/picoTracker)
+Models to 3D print the case of [picoTracker](https://github.com/xiphonics/picoTracker)
 
-![picoTracker](img/picoTracker.jpg)
+![picoTracker](img/picoTrackerv2.png)
